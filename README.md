@@ -5,4 +5,4 @@ Note: This mod only works with science gained after installation. If you have an
 
 Requires Module Manager.
 
-Note 2: This version only applies to experiments that have a simple readout that can be transmitted. More complex experiments like Surface Samples, Materials Bay, and Mystery Goo still require recovery for the full science return.
+Note by Jognt: This version only applies to experiments that have a simple readout that can be transmitted. More complex experiments like Surface Samples, Materials Bay, and Mystery Goo still require recovery for the full science return.
