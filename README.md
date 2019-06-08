@@ -4,5 +4,3 @@ Get full science rewards from transmitting your science! Sometimes you just want
 Note: This mod only works with science gained after installation. If you have any science you want to transmit and it's not offering you your full reward, try resetting your experiment and running it again.
 
 Requires Module Manager.
-
-Note by Jognt: This version only applies to experiments that have a simple readout that can be transmitted. More complex experiments like Surface Samples, Materials Bay, and Mystery Goo still require recovery for the full science return.
